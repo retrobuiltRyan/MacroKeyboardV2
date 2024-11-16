@@ -28,3 +28,4 @@ The boot-loader for uploading is a short window in the Arduino Pro Micro. The Pr
 Search for these libraries. When you find the library listed below, install it.
 7. DO NOT SOLDER BOTH I2C power jumpers. Solder only one!
 8. ![cache_4109097346](https://github.com/retrobuiltRyan/MacroKeyboardV2/assets/68818321/747f8cd8-cfca-4bee-a014-230513090e00)
+Eagle CAD files include (9.2.x) I have abondoned EagleCAD for KiCAD. KiCAD can inport Eagle projects; happy macro-ing!![eagle work](https://github.com/user-attachments/assets/f8c11977-8c12-4714-a14c-ce30a52834c1)
